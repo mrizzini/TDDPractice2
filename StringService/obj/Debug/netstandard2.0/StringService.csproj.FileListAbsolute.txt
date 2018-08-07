@@ -1,0 +1,9 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/bin/Debug/netstandard2.0/StringService.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/bin/Debug/netstandard2.0/StringService.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/bin/Debug/netstandard2.0/StringService.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.csprojAssemblyReference.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/TDD_StringCalculator/StringService/obj/Debug/netstandard2.0/StringService.pdb
